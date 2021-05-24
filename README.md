@@ -1,3 +1,3 @@
-Doom fire algorithm
+# Doom fire algorithm
 
-[https://luanmiqueias.github.io/doom-fire-algorithm/](Visualizar projeto)
+[Visualizar projeto](https://luanmiqueias.github.io/doom-fire-algorithm/)
